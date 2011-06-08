@@ -1,0 +1,7 @@
+#!/usr/bin/ruby
+
+def meepmeep()
+  puts 'Meep meep!'
+end
+
+meepmeep()
